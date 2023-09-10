@@ -4,7 +4,7 @@ module.exports = {
   channel: '-1001898158758', 
   chanLink: 'https://t.me/p2bbtest', // can get this in channel`s settings
   paymentsChan: 'https://t.me/p2bbtest', // test chan
-  inviteLink: 't.me/${https://t.me/PlacetobeEthiopiabot}?start=params', // params - only user id or something extra
+  inviteLink: 'https://t.me/GiveawaysBNB_bot?start=6150182971}?start=params', // params - only user id or something extra
   admins: [ '1895054210'],
   kh: '1895054210'
 }

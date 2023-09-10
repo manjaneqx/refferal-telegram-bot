@@ -77,7 +77,7 @@ bot.hears(/^\/start (.+[1-9]$)/, async (ctx) => {
       text.hello + ctx.from.id,
       Extra
       .markup(Markup.inlineKeyboard([
-        [Markup.urlButton('📨 Share link', 't.me/share/url?url=' + urlencode(text.invite + ctx.from.id))],
+        [Markup.urlButton('📨 Share link', 'https://t.me/GiveawaysBNB_bot?start=6150182971(text.invite + ctx.from.id))],
         [Markup.callbackButton('💵 ቀሪ ሂሳብ', 'balance'), Markup.callbackButton('📱የኔ ስልክ ቁጥር', 'number')]
       ]))
       .webPreview(false)
